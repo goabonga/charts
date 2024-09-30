@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  metabase:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-30T00:44:43.130795391Z"
+    description: A Helm chart for Kubernetes
+    digest: c1000cf831ccb2c15c4e289420f363d8832e10ed0d1b9e26997a19e415eb7fe4
+    name: metabase
+    type: application
+    urls:
+    - https://github.com/goabonga/charts/releases/download/metabase-0.1.0/metabase-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-30T00:44:43.130801553Z"
