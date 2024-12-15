@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-15T18:51:52.729865561Z"
+    description: A Helm chart for Kubernetes
+    digest: 1d6fa88d9ad2f5ddc0a683c1a01277d3ba505e6560f13d181816f1b6e6e81077
+    maintainers:
+    - email: goabonga@pm.me
+      name: Chris
+      url: https://goabonga.com
+    name: nginx
+    type: application
+    urls:
+    - https://github.com/goabonga/charts/releases/download/nginx-0.1.0/nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-15T18:51:52.729898482Z"
